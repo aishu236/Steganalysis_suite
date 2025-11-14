@@ -1,0 +1,10 @@
+{
+    "default_image_methods": [
+        "lsb_analysis"
+    ],
+    "default_file_methods": [
+        "byte_frequency_analysis"
+    ],
+    "report_output_dir": "reports",
+    "suspicious_threshold": 0.7
+}
